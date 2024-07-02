@@ -1,6 +1,6 @@
 # My Cards - Tailwind
 
-Welcome to the **My Cards - Tailwind** repository! This mini-project leverages [Tailwind CSS] (https://tailwindcss.com/) to create styled cards using React and TypeScript.
+Welcome to the **My Cards - Tailwind** repository! This mini-project leverages **[Tailwind CSS](https://tailwindcss.com/):** to create styled cards using React and TypeScript.
 These cards can be easily integrated into any web project to enhance UI design with minimal effort.
 
 ## Features
